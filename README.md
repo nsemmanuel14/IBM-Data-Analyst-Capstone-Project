@@ -9,7 +9,7 @@ Once you have collected enough data, you will begin analyzing the data and ident
 
 You will begin by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases.  Once this is completed, you will make that data ready for analysis using data wrangling techniques.  When the data is ready you will then want to apply statistical techniques to analyze the data.  Then bring all of your information together by using IBM Cognos Analytics to create your dashboard.  And finally, show off your storytelling skills by sharing your findings in a presentation.  You will be evaluated using quizzes in each module as well as the final project presentation.
 
-To viwe dashboard https://eu-de.dataplatform.cloud.ibm.com/dashboards/72ed4c46-561c-4896-a961-4f4d869e9792/view/5919f53e3eb60adc76b5f6e407c878552f33255ce6bbd70a85867b4907347897f33a4199c87a4253d3425636f5bf1b5c9d
+To view my  Cognos dashboard in IBM Watson Studio clik the the link. https://eu-de.dataplatform.cloud.ibm.com/dashboards/72ed4c46-561c-4896-a961-4f4d869e9792/view/5919f53e3eb60adc76b5f6e407c878552f33255ce6bbd70a85867b4907347897f33a4199c87a4253d3425636f5bf1b5c9d
 
 
 
