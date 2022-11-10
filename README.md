@@ -1,4 +1,4 @@
-# IBM-Data-Analyst-Capstone-Project                [![Credy Badges](https://images.credly.com/size/110x110/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png)](https://www.credly.com/users/rauljrz)
+# IBM-Data-Analyst-Capstone-Project                [![Credy Badges](https://images.credly.com/size/110x110/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png)](https://www.credly.com/earner/earned/badge/a815c68e-704f-4b28-ba4d-9b3faa1909c1)
 
 ### Documents and data used to create my Capstone Project for IBM Data Analyst Professional Certificate (Completed January 2022)
 
@@ -9,8 +9,8 @@ Once you have collected enough data, you will begin analyzing the data and ident
 
 You will begin by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases.  Once this is completed, you will make that data ready for analysis using data wrangling techniques.  When the data is ready you will then want to apply statistical techniques to analyze the data.  Then bring all of your information together by using IBM Cognos Analytics to create your dashboard.  And finally, show off your storytelling skills by sharing your findings in a presentation.  You will be evaluated using quizzes in each module as well as the final project presentation.
 
+To viwe dashboard https://eu-de.dataplatform.cloud.ibm.com/dashboards/72ed4c46-561c-4896-a961-4f4d869e9792/view/5919f53e3eb60adc76b5f6e407c878552f33255ce6bbd70a85867b4907347897f33a4199c87a4253d3425636f5bf1b5c9d
 
 
 
-
-[![Linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/rauljrz/)
+[![Linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](http://www.linkedin.com/in/nsengiyumva/)
